@@ -1,6 +1,8 @@
 ### Hi there, I am Kartik Sihotiya! <img src="https://raw.githubusercontent.com/PtPrashantTripathi/ptprashanttripathi/master/hi.gif" width="30px">
 <a href="https://www.linkedin.com/in/kartik-sihotiya-2002"><img src='https://img.shields.io/badge/Kartik Sihotiya-0077B5?style=flat-square&logo=linkedin&logoColor=white'></a>
 <a href="mailto:ksihotiya@gmail.com"><img src='https://img.shields.io/badge/Ksihotiya@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link'></a>
+<a href='https://twitter.com/KartikSihotiya'><img src='https://img.shields.io/badge/@KartikSihotiya-1DA1F2?style=flat-square&logo=twitter&logoColor=white'></a><br><br>
+<img src='https://github-readme-stats.vercel.app/api?username=SihotiyaKartik'>
 
  
 
