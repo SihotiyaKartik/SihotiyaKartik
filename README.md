@@ -3,11 +3,7 @@
 <a href="mailto:ksihotiya@gmail.com"><img src='https://img.shields.io/badge/Ksihotiya@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link'></a>
 <a href='https://twitter.com/KartikSihotiya'><img src='https://img.shields.io/badge/@KartikSihotiya-1DA1F2?style=flat-square&logo=twitter&logoColor=white'></a><br><br>
 <h2>About Me</h2>
-<p><b>I am Kartik Sihotiya, a Second year student of Electronics and Communication Engineering Branch of NIT Patna.</b></p>
-<p>🔭 I'm a MERN Developer.</p>
-<p>🌱 I'm currently learning Machine learning and Internet of things.</p>
-<p>❤ I love to watch various web series</p>
-<p>😄 Pronouns: he/him </p>
+<p><b>I am Kartik Sihotiya, a Third year student of Electronics and Communication Engineering Branch of NIT Patna.</b></p>
 <p>📫 How to reach me: <a href='Ksihotiya@gmail.com'>Ksihotiya@gmail.com</a></p>
 <h2>Things I work with</h2>
 <p>
