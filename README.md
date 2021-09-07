@@ -3,7 +3,7 @@
 <a href="mailto:ksihotiya@gmail.com"><img src='https://img.shields.io/badge/Ksihotiya@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link'></a>
 <a href='https://twitter.com/KartikSihotiya'><img src='https://img.shields.io/badge/@KartikSihotiya-1DA1F2?style=flat-square&logo=twitter&logoColor=white'></a><br><br>
 <h2>About Me</h2>
-<p><b>I am Kartik Sihotiya, a Third year student of Electronics and Communication Engineering Branch of NIT Patna.</b></p>
+<p><b>I am Kartik Sihotiya, Pre Final year student of Electronics and Communication Engineering Branch of NIT Patna.</b></p>
 <p>📫 How to reach me: <a href='Ksihotiya@gmail.com'>Ksihotiya@gmail.com</a></p>
 <h2>Things I work with</h2>
 <p>
@@ -27,7 +27,9 @@
  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
  </p>
- <img src='https://github-readme-stats.vercel.app/api?username=SihotiyaKartik' />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SihotiyaKartik&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihotiyaKartik&layout=compact&theme=vue"></a>
+
  
 
 
