@@ -27,8 +27,10 @@
  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
  </p>
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SihotiyaKartik&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihotiyaKartik&layout=compact&theme=vue"></a>
+ <div>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SihotiyaKartik&show_icons=true&count_private=true&include_all_commits=true&custom_title=Kartik's+GitHub+Stats&theme=radical">
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihotiyaKartik&layout=compact&theme=radical"></a>
+</div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SihotiyaKartik" alt="SihotiyaKartik" />
  
 
