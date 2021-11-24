@@ -34,7 +34,7 @@
 <a href="https://github.com/SihotiyaKartik/github-readme-stats"><img alt="Kartik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SihotiyaKartik&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SihotiyaKartik/github-readme-stats"><img alt="Kartik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SihotiyaKartik&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
-<a href="https://github.com/kirtan18/github-readme-activity-graph"><img alt="Kartik 's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SihotiyaKartik&bg_color=0D1117&color=5BCDEC&line=FF0000&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SihotiyaKartik/github-readme-activity-graph"><img alt="Kartik 's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SihotiyaKartik&bg_color=0D1117&color=5BCDEC&line=FF0000&point=FFFFFF&hide_border=true" /></a>
  
 
  <p align="center">
