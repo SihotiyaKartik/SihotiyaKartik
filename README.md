@@ -1,5 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center"> Hi there, I am Kartik Sihotiya! <img src="https://raw.githubusercontent.com/PtPrashantTripathi/ptprashanttripathi/master/hi.gif" width="30px"></h1>
+<h1 align="center"> Hi there, I am Kartik Sihotiya! </h1>
+<!-- <img src="https://raw.githubusercontent.com/PtPrashantTripathi/ptprashanttripathi/master/hi.gif" width="1px"> -->
 <p align="center">A curious Learner</p>
 
 # 🙋‍♂️ About Me
