@@ -8,8 +8,7 @@
 <p>👨‍💻 Graduate from National Institiute of Technology Patna</p>
 <p>📫 How to reach me: <a href='Ksihotiya@gmail.com'>Ksihotiya@gmail.com</a></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SihotiyaKartik" alt="SihotiyaKartik" height="200" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SihotiyaKartik&show_icons=true&locale=en&layout=compact" alt="SihotiyaKartik" height="200"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SihotiyaKartik" alt="SihotiyaKartik" height="200" /> </p>
 
 # My GitHub Stats
 
